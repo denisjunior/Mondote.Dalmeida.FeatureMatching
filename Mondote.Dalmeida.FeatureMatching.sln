@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mondote.Dalmeida.FeatureMatching", "Mondote.Dalmeida.FeatureMatching\Mondote.Dalmeida.FeatureMatching.csproj", "{B1812894-1FA4-441B-A5ED-2D92BD480C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mondote.Dalmeida.FeatureMatching.Tests", "Mondote.Dalmeida.FeatureMatching.Tests\Mondote.Dalmeida.FeatureMatching.Tests.csproj", "{1AD8263B-ECF2-4485-9C74-F59FEF9BEF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mondote.Dalmeida.FeatureMatching.WebApi", "Mondote.Dalmeida.FeatureMatching.WebApi\Mondote.Dalmeida.FeatureMatching.WebApi.csproj", "{AB81DB5F-C264-406D-8F21-C509EA0870F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1812894-1FA4-441B-A5ED-2D92BD480C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1812894-1FA4-441B-A5ED-2D92BD480C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1812894-1FA4-441B-A5ED-2D92BD480C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1812894-1FA4-441B-A5ED-2D92BD480C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD8263B-ECF2-4485-9C74-F59FEF9BEF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD8263B-ECF2-4485-9C74-F59FEF9BEF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD8263B-ECF2-4485-9C74-F59FEF9BEF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD8263B-ECF2-4485-9C74-F59FEF9BEF54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB81DB5F-C264-406D-8F21-C509EA0870F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB81DB5F-C264-406D-8F21-C509EA0870F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB81DB5F-C264-406D-8F21-C509EA0870F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB81DB5F-C264-406D-8F21-C509EA0870F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
